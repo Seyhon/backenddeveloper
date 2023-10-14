@@ -21,10 +21,12 @@ body{
 
 #tbl1_1{
     background-color: rgb(23, 139, 23);
-    font-weight: bold;
+    font-weight: normal;
     font-size: 25px;
     font-style: normal;
     font-family: fantasy;
+    color: white;
+    border-color: black;
 }
 
 #tbl1_2{
@@ -36,6 +38,8 @@ body{
     font-weight: bold;
     font-size: 25px;
     font-style: italic;
+    color: white;
+    border-color: black;
 }
 
 #tbl1_4{
@@ -44,10 +48,12 @@ body{
 
 #tbl2_1{
     background-color: rgb(98, 0, 128);
-    font-weight: bold;
+    font-weight: lighter;
     font-size: 25px;
     font-style: normal;
     font-family: fantasy;
+    color: white;
+    border-color: black;
 }
 
 #tbl2_2{
@@ -59,6 +65,8 @@ body{
     font-weight: bold;
     font-size: 25px;
     font-style: italic;
+    color: yellow;
+    border-color: black;
 }
 
 #tbl2_4{
@@ -71,6 +79,8 @@ body{
     font-size: 25px;
     font-style: normal;
     font-family: cursive;
+    color: goldenrod;
+    border-color: black;
 }
 
 #tbl3_2{
