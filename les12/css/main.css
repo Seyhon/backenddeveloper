@@ -1,0 +1,128 @@
+body{
+    background-color: whitesmoke;
+}
+
+#kop{
+    background-color: orange;
+}
+
+#voet{
+    background-color: orange;
+}
+
+.tabellen{
+    background-color: beige;
+    color: blue;
+}
+
+.bronnen{
+    background-color: gray;
+}
+
+#tbl1_1{
+    background-color: rgb(23, 139, 23);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: fantasy;
+}
+
+#tbl1_2{
+    background-color: rgb(109, 128, 0);
+}
+
+#tbl1_3{
+    background-color: rgb(0, 19, 128);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#tbl1_4{
+    background-color: rgb(128, 87, 0);
+}
+
+#tbl2_1{
+    background-color: rgb(98, 0, 128);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: fantasy;
+}
+
+#tbl2_2{
+    background-color: rgb(128, 0, 0);
+}
+
+#tbl2_3{
+    background-color: rgb(66, 0, 128);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#tbl2_4{
+    background-color: rgb(4, 255, 4);
+}
+
+#tbl3_1{
+    background-color: rgb(50, 116, 50);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: cursive;
+}
+
+#tbl3_2{
+    background-color: rgb(245, 188, 65);
+}
+
+#tbl3_3{
+    background-color: rgb(60, 200, 255);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: cursive;
+}
+
+#tbl34{
+    background-color: rgb(253, 36, 253);
+}
+
+#tbl4_1{
+    background-color: rgb(230, 255, 4);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: cursive;
+}
+
+#tbl4_2{
+    background-color: rgb(25, 255, 178);
+}
+
+#tbl4_3{
+    background-color: rgb(245, 255, 103);
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: cursive;
+}
+
+#tbl4_4{
+    background-color: rgb(255, 41, 41);
+}
+
+table, td{
+    border: 3px solid;
+    color: black;
+}
+
+p.links{
+    font-size: 20px;
+}
+
+h3 {
+    text-underline-position: under;
+    text-underline-offset: auto;
+}
